@@ -1,0 +1,44 @@
+.ingredients{
+    margin: 20px;
+    background-color: rgb(255, 0, 0, 0.5);
+    padding: 5px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ingredients li{
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+    list-style-position: inside;
+    background-color: rgb(50, 50, 50, 0.1);
+    width: fit-content;
+}
+
+.ingredients h3{
+    color: red;
+    text-align: center;
+    background-color: rgb(255, 0, 0, 0.1);
+    margin: 20px auto; 
+    width: fit-content;
+    padding: 10px 10px;
+}
+
+.instructions {
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+}
+
+.instructions li {
+    padding: 5px 0;
+    background-color: aliceblue;
+}
+
+.homeLink {
+    text-align: center;
+}
+
+.homeLink a{
+    padding: 5px;
+    font-size: 35px;
+}
+
