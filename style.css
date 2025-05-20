@@ -4,8 +4,13 @@
     font-family: Garamond, 'Courier New', Courier, monospace;
 }
 
-.recipes *{
+.recipes a{
     font-size: 20px;
     font-weight: 600;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid seagreen ;
+}
+
+.recipes li{
+    margin: 10px 0;
 }
